@@ -1,0 +1,14 @@
+node_modules/
+android/.gradle/
+android/build/
+android/app/build/
+android/app/release/
+android/capacitor-cordova-android-plugins/build/
+android/local.properties
+*.apk
+*.keystore
+*.jks
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
