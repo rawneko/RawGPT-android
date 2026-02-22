@@ -38,7 +38,7 @@ RawGPT Mobile — мобильная версия [RawGPT](https://gitverse.ru/r
 
 ## 📱 Скриншот:
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot/screenshot.png)
 
 ## 📦 Установка
 
