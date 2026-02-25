@@ -10,7 +10,7 @@
 [![Android](https://img.shields.io/badge/Android-7+-3ddc84?style=for-the-badge&logo=android&logoColor=white)](../../releases)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
-[Скачать APK](https://gitverse.ru/rawnekoo/RawGPT-android/releases) · [Десктопная версия](https://gitverse.ru/rawnekoo/RawGPT)
+[Скачать APK](https://github.com/rawneko/RawGPT-android/releases) · [Десктопная версия](https://github.com/rawnekoo/RawGPT)
 
 </div>
 
@@ -18,7 +18,7 @@
 
 ## О проекте
 
-RawGPT Mobile — мобильная версия [RawGPT](https://gitverse.ru/rawnekoo/RawGPT) для Android. Подключается к Ollama на вашем компьютере через локальную сеть. Полностью приватно — данные не покидают вашу сеть.
+RawGPT Mobile — мобильная версия [RawGPT](https://github.com/rawneko/RawGPT) для Android. Подключается к Ollama на вашем компьютере через локальную сеть. Полностью приватно — данные не покидают вашу сеть.
 
 ## Возможности
 
@@ -44,7 +44,7 @@ RawGPT Mobile — мобильная версия [RawGPT](https://gitverse.ru/r
 
 ### Быстрый старт
 
-1. Скачайте APK из [Releases](https://gitverse.ru/rawnekoo/RawGPT-android/releases)
+1. Скачайте APK из [Releases](https://github.com/rawneko/RawGPT-android/releases)
 2. Установите на Android
 3. Укажите IP компьютера с Ollama в настройках
 
@@ -81,7 +81,3 @@ http://ВАШ_IP:11434
 * Android 7+
 * Компьютер с [Ollama](https://ollama.com)
 * Одна WiFI / локальная сеть
-
-## **Связанный проект:**
-
-* [RawGPT](https://gitverse.ru/rawnekoo/RawGPT) - Desktop версия
